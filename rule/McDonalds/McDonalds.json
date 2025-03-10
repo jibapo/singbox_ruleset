@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "happymeal.com.au",
+        "happymeal.co.nz",
+        "mcdonalds.com",
+        "mcdelivery.com.au",
+        "mcdelivery.com.my",
+        "4008-517-517.cn",
+        "mcdonaldsparties.co.nz",
+        "mcdelivery.co.kr",
+        "mcdelivery.co.id",
+        "mcdonalds.no",
+        "mcdonalds.com.hk",
+        "mcdonalds.hk",
+        "aboutmcdonalds.com",
+        "mcdonaldsarabia.com",
+        "mcdonalds.it",
+        "mcdelivery.com.sg",
+        "mcdonaldsparties.com.au",
+        "mcd.com",
+        "mcdonalds.ca",
+        "mcdindonesia.com",
+        "mcdonalds.co.uk",
+        "mcdelivery.com.tw",
+        "xn--qhrx81fxh2a.xn--55qx5d.hk",
+        "mcdonalds.com.cn",
+        "mcdonalds.se"
+      ]
+    }
+  ],
+  "version": 2
+}

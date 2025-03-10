@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "hinet.net",
+        "litv.tv",
+        "emome.net",
+        "xuite.net",
+        "cht.com.tw",
+        "gtlsca.nat.gov.tw",
+        "chtf.org.tw"
+      ]
+    }
+  ],
+  "version": 2
+}
